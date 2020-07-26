@@ -518,6 +518,7 @@
 .main_option_footer_content{
     max-width: 1300px;
     padding: 40px 20px;
+    margin: 0 auto;
     text-align: center;
     color: #333;
 }
